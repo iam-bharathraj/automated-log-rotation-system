@@ -1,2 +1,9 @@
 # automated-log-rotation-system
-Bash-based automation project for log rotation, disk usage monitoring, cron scheduling, and email notification reporting
+This project automates log rotation using Bash scripting by identifying large files, compressing them, and moving them to an archive directory.
+
+## Features
+- File compression using gzip
+- Archive directory management
+- Disk usage monitoring
+- Cron scheduling support
+- Email notification integration
